@@ -5,4 +5,4 @@ Mission : création d'une carte de visite en format web
 
 Autoformation / HTML5 et CSS3
 
-Pour voir mon projet c'est par ici : https://jsfiddle.net/Lh5zwtbo/#&togetherjs=G5dwmrU1t1 !
+Pour voir mon projet c'est par ici : [https://jsfiddle.net/Lh5zwtbo/#&togetherjs=G5dwmrU1t1 ](https://jsfiddle.net/Lh5zwtbo/#&togetherjs=G5dwmrU1t1) !
